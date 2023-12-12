@@ -2,26 +2,26 @@ import "../styles/globals.css";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "NeuraMock - AI-Powered Mock Interviews",
+  title: "LiftOff - AI-Powered Mock Interviews",
   openGraph: {
-    title: "NeuraMock - AI-Powered Mock Interviews",
+    title: "LiftOff - AI-Powered Mock Interviews",
     description:
-      "NeuraMock is an AI-powered mock interview platform that helps you practice for your next job interview.",
+      "LiftOff is an AI-powered mock interview platform that helps you practice for your next job interview.",
     images: [
       {
-        url: "https://demo.useliftoff.com/opengraph-image",
+        url: "https://liftoff-steel.vercel.app/opengraph-image",
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "NeuraMock - AI-Powered Mock Interviews",
+    title: "LiftOff - AI-Powered Mock Interviews",
     description:
-      "NeuraMock is an AI-powered mock interview platform that helps you practice for your next job interview.",
-    images: ["https://demo.useliftoff.com/opengraph-image"],
-    creator: "@tmeyer_me",
+      "LiftOff is an AI-powered mock interview platform that helps you practice for your next job interview.",
+    images: ["https://liftoff-steel.vercel.app/opengraph-image"],
+    creator: "@Ashutos56695774",
   },
-  metadataBase: new URL("https://demo.useliftoff.com"),
+  metadataBase: new URL("https://liftoff-steel.vercel.app/"),
   themeColor: "#FFF",
 };
 
