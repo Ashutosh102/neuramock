@@ -31,7 +31,7 @@ export default async function OG() {
             "../public/apple-touch-icon.png",
             import.meta.url
           ).toString()}
-          alt="Liftoff Logo"
+          alt="NeuraMock Logo"
           tw="w-20 h-20 mb-4 opacity-95"
         />
         <h1
