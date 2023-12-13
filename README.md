@@ -82,4 +82,4 @@ We then send the audio directly to be transcribed by OpenAI's Whisper endpoint, 
 
 ## Author
 
-- Tyler Meyer ([@tmeyer_me](https://twitter.com/tmeyer_me))
+- Ashutosh ([@Ashutos56695774](https://twitter.com/Ashutos56695774))
